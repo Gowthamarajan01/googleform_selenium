@@ -1,0 +1,54 @@
+body {
+    min-height: 100vh;
+    background: #f3f7fc;
+    color: #233247;
+}
+
+.navbar-brand {
+    font-weight: 700;
+    letter-spacing: 0.02em;
+}
+
+.hero {
+    padding: 5rem 1rem;
+    text-align: center;
+}
+
+.hero h1 {
+    color: #173b70;
+    font-weight: 750;
+}
+
+.portal-card {
+    border: 0;
+    border-radius: 1rem;
+    box-shadow: 0 0.75rem 2rem rgba(23, 59, 112, 0.1);
+}
+
+.portal-card .card-header {
+    border: 0;
+    border-radius: 1rem 1rem 0 0;
+    background: #fff;
+    padding-top: 1.5rem;
+}
+
+.form-label {
+    font-weight: 600;
+}
+
+.required-mark {
+    color: #b02a37;
+}
+
+.form-text {
+    color: #627087;
+}
+
+.profile-table th {
+    width: 35%;
+    color: #43536b;
+}
+
+footer {
+    color: #627087;
+}
